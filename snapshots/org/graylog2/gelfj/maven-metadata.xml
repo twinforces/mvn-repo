@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.graylog2</groupId>
+  <artifactId>gelfj</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120224231823</lastUpdated>
+  </versioning>
+</metadata>
